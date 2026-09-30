@@ -1,0 +1,19 @@
+{
+  "name": "qevasion",
+  "dataset_name": "ailsntua/QEvasion",
+  "subset": null,
+  "text_a_column": "question",
+  "text_b_column": "interview_answer",
+  "label_column": "clarity_label",
+  "id_column": "index",
+  "group_column": "url",
+  "extra_columns": ["evasion_label", "president", "title", "date", "annotator1", "annotator2", "annotator3", "multiple_questions"],
+  "label_mapping": {
+    "Clear Reply": "Clear Reply",
+    "Ambivalent": "Ambivalent",
+    "Ambivalent Reply": "Ambivalent",
+    "Clear Non-Reply": "Clear Non-Reply"
+  },
+  "train_limit": null,
+  "test_limit": null
+}

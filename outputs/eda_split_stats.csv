@@ -1,0 +1,3 @@
+﻿split,n,missing_text_a,missing_text_b,missing_label,avg_q_len,avg_a_len,median_a_len
+train,3448,0.0,0.0,0.0,14.462006960556845,293.57221577726216,207.0
+test,308,0.0,0.0,0.0,15.25974025974026,326.3084415584416,291.5

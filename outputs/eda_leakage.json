@@ -1,0 +1,12 @@
+{
+  "test_n": 308,
+  "url_overlap_n": 118,
+  "url_overlap_rate": 0.38311688311688313,
+  "train_presidents": {
+    "Donald J. Trump": 1325,
+    "Barack Obama": 1010,
+    "George W. Bush": 714,
+    "Joseph R. Biden": 399
+  },
+  "test_president_missing": 1.0
+}

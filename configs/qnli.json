@@ -1,0 +1,18 @@
+{
+  "name": "qnli",
+  "dataset_name": "nyu-mll/glue",
+  "subset": "qnli",
+  "text_a_column": "question",
+  "text_b_column": "sentence",
+  "label_column": "label",
+  "id_column": "idx",
+  "group_column": null,
+  "extra_columns": [],
+  "label_mapping": {
+    "0": "entailment",
+    "1": "not_entailment"
+  },
+  "train_limit": 4000,
+  "test_split": "validation",
+  "test_limit": 800
+}
